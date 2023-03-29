@@ -10,3 +10,9 @@
 .paragrafo-destacado {
     background-color: #F0CCE2;
 }
+
+.titulo {
+    background-color: #F30CE2;
+    padding: 30px;
+    width: 30%;
+}
